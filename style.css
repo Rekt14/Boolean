@@ -1,0 +1,65 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: "Poppins";
+}
+
+.sfondocentrale {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 800px;
+  height: 800px;
+  margin: auto;
+  border-radius: 2%;
+  margin-top: 40px;
+}
+
+.titolo {
+  color: lime;
+  text-align: center;
+}
+
+.logo {margin-top: 80px}
+
+h1 {margin-top: 0;
+    margin-bottom: 0;}
+
+nav {
+  background-color: lime;
+  width: 80%;
+  margin:auto;
+  text-align: center;
+  padding: 10px
+}
+
+.blocchicentrali {
+  width: 80%;
+  margin: auto;
+  color: white
+}
+
+section {margin: 20px}
+
+.nomi {font-size: 150%}
+
+.indirizzo:before {content: "\21A6"}
+
+.casella1 {
+  width: 350px;
+  height: 30px;
+  background-color: orange;
+  border-radius: 5%;
+}
+
+.casella2 {
+  width: 500px;
+  height: 30px;
+  background-color: #00A300;
+  border-radius: 5%;
+}
+
+.casella3 {
+  width: 150px;
+  height: 30px;
+  background-color: #C63A2F;
+  border-radius: 5%;
+}
